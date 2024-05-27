@@ -27,6 +27,14 @@ El propósito con este gestor es ofrecer a los dueños y gerentes de restaurante
 Las predicciones de ventas les permiten planificar con antelación y estar preparados para satisfacer la demanda de manera efectiva. En resumen, el MVP está concebido para ser una herramienta integral que ayude a los restaurantes a crecer y prosperar en un mercado competitivo.
 <br>
 
+<h2>🚧 Dashboard Interactivo Power BI</h2>
+<img src="Media/dashboard-1.png" width="100%">
+<img src="Media/dashboard-2.png" width="100%">
+
+
+<h2>🚧 Enlace Dashboard Power BI</h2>
+
+
 <h2>🏷️ Conclusiones</h2>
 <img src="Media/Conclusiones-1.png" width="100%">
 <img src="Media/Conclusiones-2.png" width="100%">
